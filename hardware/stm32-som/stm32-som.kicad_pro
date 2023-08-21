@@ -320,6 +320,14 @@
     [
       "ca96ea31-ac7f-4564-a08d-646fb7374aeb",
       ""
+    ],
+    [
+      "935760a4-2e21-49e5-b565-e9c8972093d7",
+      "Power Supply"
+    ],
+    [
+      "8cc0665d-0821-42e9-b2d5-9f56f7ddf764",
+      "MCU-STM32F412RE"
     ]
   ],
   "text_variables": {}
