@@ -1478,7 +1478,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bc44ffe3-f480-43df-8fdc-cfa691ed7def)
   )
-  (label "CANH" (at 243.205 27.94 0)
+  (label "CANH" (at 243.205 30.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bd814812-afa7-4cf3-a119-50fa0dfca5b8)
   )
@@ -1534,7 +1534,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d98a61c5-7434-4e97-be15-7e9c3f6276e7)
   )
-  (label "CANL" (at 243.205 30.48 0)
+  (label "CANL" (at 243.205 27.94 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid da926e5d-e339-4b01-8d71-d99da8b02157)
   )
@@ -2517,6 +2517,9 @@
     (path "/8cc0665d-0821-42e9-b2d5-9f56f7ddf764/5167fcfe-56d4-4cd9-a758-a5327d9fd7e0"
       (reference "J6") (unit 1) (value "TC2030") (footprint "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical")
     )
+    (path "/8cc0665d-0821-42e9-b2d5-9f56f7ddf764/28d87406-1f25-4632-b32f-a4a373f2109d"
+      (reference "J7") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Vertical_SMD")
+    )
     (path "/935760a4-2e21-49e5-b565-e9c8972093d7/3cf61ff5-d001-475a-828e-af303e9ca3fc"
       (reference "JP1") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels")
     )
@@ -2582,24 +2585,6 @@
     )
     (path "/8cc0665d-0821-42e9-b2d5-9f56f7ddf764/77bdd855-955d-4f04-99f7-68ffe4d0d70b"
       (reference "TP6") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
-    )
-    (path "/8cc0665d-0821-42e9-b2d5-9f56f7ddf764/8debcdc3-0828-4fd7-a9ed-63cbe6bf96ac"
-      (reference "TP7") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
-    )
-    (path "/8cc0665d-0821-42e9-b2d5-9f56f7ddf764/c4e28d4f-d902-439b-912b-28b0a07b94ca"
-      (reference "TP8") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
-    )
-    (path "/8cc0665d-0821-42e9-b2d5-9f56f7ddf764/bfaf6999-4028-4729-ab6a-f20b81c5b811"
-      (reference "TP9") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
-    )
-    (path "/8cc0665d-0821-42e9-b2d5-9f56f7ddf764/f465083f-e654-4ab7-a4c8-4e35a405910d"
-      (reference "TP10") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
-    )
-    (path "/8cc0665d-0821-42e9-b2d5-9f56f7ddf764/8dd9f700-1e55-4a56-a66a-bd345c013fb3"
-      (reference "TP11") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
-    )
-    (path "/8cc0665d-0821-42e9-b2d5-9f56f7ddf764/18186462-fac5-44e8-bf56-a49b410a39c5"
-      (reference "TP12") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
     )
     (path "/8cc0665d-0821-42e9-b2d5-9f56f7ddf764/5b96dbfa-b79f-46a9-ab1d-ac48bd28ff9d"
       (reference "TP13") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
